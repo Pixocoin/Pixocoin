@@ -17,16 +17,7 @@ Pixo is currently under development.
 ### Prerequisites
 
 ```
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install libssl-dev libdb-dev libdb++-dev libqrencode-dev qt4-qmake libqtgui4 libqt4-dev git
-sudo apt-get install build-essential libminiupnpc-dev 
-sudo apt-get update
-sudo add-apt-repository ppa:bitcoin/bitcoin
-sudo apt-get update
-sudo apt-get install libdb4.8-dev
-sudo apt-get install libdb4.8++-dev
-sudo apt-get install libboost*
+
 ```
 
 ### Installing
@@ -36,13 +27,7 @@ git clone https://github.com/Pixocoin/Pixocoin.git
 ## Deployment
 
 ```
-cd pixocoin
-cd src
-make -f makefile.unix USE_UPNP=-
-./pixocoind
-cd ..
-qmake pixocoin-qt.pro
-make
+
 ```
 
 ## License
