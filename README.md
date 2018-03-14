@@ -17,7 +17,7 @@ Pixo is currently under development.
 ### Prerequisites
 
 ```
-
+under development
 ```
 
 ### Installing
@@ -27,7 +27,7 @@ git clone https://github.com/Pixocoin/Pixocoin.git
 ## Deployment
 
 ```
-
+under development
 ```
 
 ## License
