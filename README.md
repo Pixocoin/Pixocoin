@@ -1,7 +1,7 @@
 # Pixo (PIXO)
 www.pixocoin.org
 
-Pixo™ is a decentralized anonymous digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
+Pixo™ is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
 - 81,000,000 supply
 - Currency = PIXO
 - Block Reward: 1.00
