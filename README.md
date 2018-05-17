@@ -22,7 +22,7 @@ under development
 
 ### Installing
 ```
-git clone https://github.com/Pixocoin/Pixocoin.git
+under development
 ```
 ## Deployment
 
