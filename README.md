@@ -1,4 +1,4 @@
-# Pixo (PIXO)
+# Pixo™ (PIXO)
 www.pixocoin.org
 
 Pixo™ is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
@@ -10,7 +10,7 @@ Pixo™ is a secure anonymous digital currency/digital asset built on cryptograp
 
 ## Development
 ### Build 0.0.0-alpha
-Pixo is currently under development.
+Pixo™ is currently under development.
 
 ## Getting Started 
 
