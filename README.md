@@ -2,10 +2,10 @@
 www.pixocoin.org
 
 Pixo™ is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
-- 81,000,000 supply
+- 8,100,000 supply
 - Currency = PIXO
-- Block Reward: 3.00
-- Block Time: 360 seconds
+- Block Reward: 1.00
+- Block Time: 600 seconds
 - Equihash Algorithm
 
 ## Development
