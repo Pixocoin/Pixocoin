@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="http://tinyimg.io/i/QydRjXa.png"/>
 </p>
+
 # Pixo™ (PIXO)
 www.pixocoin.org
 
