@@ -10,7 +10,6 @@ Pixo™ is a secure anonymous digital currency/digital asset built on cryptograp
 - Currency = PIXO
 - Block Reward: 1.00
 - Block Time: 600 seconds
-- Equihash Algorithm
 
 ## Development
 ### Build 0.0.0-alpha
