@@ -3,10 +3,10 @@
 	
 </p>
 
-# Pixo™ (PIXO)
+# Pixo® (PIXO)
 www.pixocoin.org
 
-Pixo™ is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
+Pixo® is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
 - 8,100,000 supply
 - Currency = PIXO
 - Block Reward: 1.00
@@ -14,7 +14,7 @@ Pixo™ is a secure anonymous digital currency/digital asset built on cryptograp
 
 ## Development
 ### Build 0.0.0-alpha
-Pixo™ is currently under development.
+Pixo® is currently under development.
 
 ## Getting Started 
 
@@ -36,7 +36,7 @@ under development
 
 ## License
 
-This project is licensed under the MIT License http://opensource.org/licenses/MIT.  Copyright (c) 2009-2012 Bitcoin Core Developers, Copyright © 2011-2012 Litecoin Developers, Copyright © 2017-2018 Pixocoin.org, Copyright © 2017-2018 Pixocoin Developers, PIXO™.
+This project is licensed under the MIT License http://opensource.org/licenses/MIT.  Copyright (c) 2009-2012 Bitcoin Core Developers, Copyright © 2011-2012 Litecoin Developers, Copyright © 2017-2018 Pixocoin.org, Copyright © 2017-2018 Pixocoin Developers, PIXO®.
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used!
