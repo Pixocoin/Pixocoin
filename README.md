@@ -40,6 +40,7 @@ This project is licensed under the MIT License http://opensource.org/licenses/MI
 <p align="center">
 	<img src="http://tinyimg.io/i/ygFOEXr.png"/>
 </p>
+
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used!
