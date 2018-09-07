@@ -1,5 +1,6 @@
 <p align="center">
-	<img src="http://tinyimg.io/i/QydRjXa.png"/>
+	<img src="http://tinyimg.io/i/aS2OnEg.png"/>
+	
 </p>
 
 # Pixo™ (PIXO)
