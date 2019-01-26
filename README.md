@@ -9,10 +9,10 @@ www.pixocoin.org
 Pixo® is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
 - Coin Name = Pixo®
 - Ticker = PIXO
-- ICO = N/A
+- ICO = TBD
 - Algorithm = TBD
 - Type = TBD
-- Block Reward = 3.00
+- Block Reward = 1.00
 - Re-Target = 1 block
 - Total Supply = 8,000,000
 - Block Time = 600 sec
