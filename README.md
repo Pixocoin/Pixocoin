@@ -7,22 +7,22 @@
 www.pixocoin.org
 
 Pixo® is a secure anonymous digital currency/digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.
-- Coin Name = Pixo™ Cash
-- Ticker = PIXOC
+- Coin Name = Pixo®
+- Ticker = PIXO
 - ICO = N/A
-- Algorithm = Scrypt
-- Type = PoW
+- Algorithm = TBD
+- Type = TBD
 - Block Reward = 3.00
 - Re-Target = 1 block
-- Total Supply = 81,000,000
-- Block Time = 360 sec
+- Total Supply = 8,000,000
+- Block Time = 600 sec
 - Coin Maturity = 120 blocks
 - Transaction Confirmations = 6 blocks
 - Block Size = 2 MB
 - Decimals = 8
-- Address letter = P
-- RPC Port = 55664
-- Port = 55665
+- Address letter = X
+- RPC Port = TBD
+- Port = TBD
 ## Development
 ### Build 0.0.0-alpha
 Pixo® is currently under development.
