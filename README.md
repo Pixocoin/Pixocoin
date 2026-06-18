@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="100" height="100" alt="32423488" src="https://github.com/user-attachments/assets/19f07d4e-5f39-41d9-9915-04db319480d3" />
+	<img width="200" height="200" alt="Pixo" src="https://github.com/user-attachments/assets/b0cf07fe-a76b-419d-8665-c0303f6767ac" />
 </p>
 
 # Pixo® (PIXO)
